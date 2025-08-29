@@ -1,1 +1,5 @@
-# Modular_Relay_Board_PCB_TMR
+# Modular Relay Board PCB TMR
+
+![Relay Board](relay_board.png)
+
+[View Interactive 3D Model](https://skfb.ly/pACNG)
